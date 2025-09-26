@@ -1,1 +1,11 @@
-
+HEAD
+body{
+    background: pink;
+    color: plum;
+      font-family: "Playfair Display", serif;
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      height: 700px;
+      margin: 0;
+}
