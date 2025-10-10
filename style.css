@@ -1,6 +1,6 @@
 body{
     background: pink;
-    color: rgb(121, 60, 121);
+    color: rgb(255, 192, 245);
       font-family: "Playfair Display", serif;
       display:flex;
       justify-content: center;
@@ -11,6 +11,6 @@ body{
 
 button{
     background-color: palevioletred;
-    color: rgb(139, 86, 139);
+    color: rgb(56, 1, 56);
       font-family: "Playfair Display", serif;
 }
